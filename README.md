@@ -66,6 +66,14 @@ The debug APK is written to `platforms/android/app/build/outputs/apk/debug/`.
 
 HTML5, CSS3 and JavaScript (ES6), running inside the Android WebView and packaged with Apache Cordova 12 (`cordova-android` 13).
 
+## Contributing
+
+Anyone is welcome to contribute: bug reports, game ideas, artwork, translations, documentation fixes and code. You do not need to be a member of the project, and a single issue or pull request is enough to become a contributor.
+
+- Read the [Contributing Guide](CONTRIBUTING.md) for setup steps and coding guidelines.
+- Report a bug or suggest an idea through the issue templates on the [Issues](https://github.com/f4rhankhan/WonderWow/issues) page.
+- All participation is covered by the [Code of Conduct](CODE_OF_CONDUCT.md).
+
 ## License
 
 Released under the [MIT License](LICENSE).
